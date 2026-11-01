@@ -1,3 +1,7 @@
+// Slip 7 (Q.2) Write a java program to define a class student having rollno, name and  
+         // percentage. Define Default and parameterized   constructor. Overload  
+         // the constructor. Accept the 5 student details and display it. (use this  
+          //keyword).
 
 import java.util.*;
 
